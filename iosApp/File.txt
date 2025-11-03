@@ -1,0 +1,6 @@
+   ExhibitionNavBar {
+                attr {
+                    title = TITLE
+                    // backDisable = true
+                }
+            }
